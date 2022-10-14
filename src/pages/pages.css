@@ -1,0 +1,11 @@
+.pointer {
+    cursor: pointer;
+}
+
+.img-details-wrapper {
+    overflow: hidden;
+}
+
+.img-details-wrapper img {
+    width: 100%;
+}
